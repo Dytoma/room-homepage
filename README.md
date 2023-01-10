@@ -34,8 +34,8 @@ This is a screenshot of my solution😇.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://clever-concha-cb814a.netlify.app/)
+- Solution URL: [Solution URL](https://your-solution-url.com)
+- Live Site URL: [Site URL](https://clever-concha-cb814a.netlify.app/)
 
 ## My process
 For this project I used React, Tailwind CSS and react-awesome-reveal.
