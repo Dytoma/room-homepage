@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./room-homepage.png)
 
 This is a screenshot of my solution😇.
 
