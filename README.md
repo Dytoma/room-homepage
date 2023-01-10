@@ -34,7 +34,7 @@ This is a screenshot of my solution😇.
 
 ### Links
 
-- Solution URL: [Solution URL](https://your-solution-url.com)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/room-homepage-Xu4nLLHs6N)
 - Live Site URL: [Site URL](https://clever-concha-cb814a.netlify.app/)
 
 ## My process
