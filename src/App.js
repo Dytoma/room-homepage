@@ -102,7 +102,7 @@ function App() {
             <img src={AboutDark} alt="" className='w-full'/>
           </div>
         </Slide>
-        <Fade down>
+        <Fade up delay={1000}>
           <div className='px-8 md:px-6 lg:pl-12 md:pt-[68px] lg:pr-11 py-16 md:pb-0'>
             <h3 className='text-base font-semibold uppercase tracking-[0.3em] md:tracking-[0.425em] leading-4 mb-4'>
               About our furniture

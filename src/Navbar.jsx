@@ -29,12 +29,14 @@ const Navbar = () => {
             <div className='md:hidden'>
                 <img src={IconClose} alt="" className='md:hidden inline-block' onClick={menu}/>
             </div>
-            <div className='space-x-8'>
-                <a href="#home" className='links relative'>home</a>
-                <a href="#shop" className='links relative'>shop</a>
-                <a href="#about" className='links relative'>about</a>
-                <a href="#contact" className='links relative'>contact</a>
-            </div>
+            <Fade up delay={500}>
+                <div className='space-x-8'>
+                    <a href="#home" className='links relative'>home</a>
+                    <a href="#shop" className='links relative'>shop</a>
+                    <a href="#about" className='links relative'>about</a>
+                    <a href="#contact" className='links relative'>contact</a>
+                </div>
+            </Fade>
         </div>
     </div>
   )
