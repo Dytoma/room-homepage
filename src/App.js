@@ -23,9 +23,9 @@ function App() {
   }
 
   return (
-    <div className="App min-h-full font-leagueSpartan grid md:grid-rows-[52vh_1fr] lg:grid-rows-[534px_1fr]">
+    <main className="App min-h-full font-leagueSpartan grid md:grid-rows-[52vh_1fr] lg:grid-rows-[534px_1fr]">
 
-      <div className='md:grid md:grid-cols-2 lg:grid-cols-[840px_1fr] flex flex-col'>
+      <section className='md:grid md:grid-cols-2 lg:grid-cols-[840px_1fr] flex flex-col'>
 
         <div className='hero-section relative w-full h-full overflow-hidden'>
 
@@ -76,9 +76,9 @@ function App() {
             </button>
           </div>
         </div>
-      </div>
+      </section>
 
-      <div className='md:grid md:grid-cols-[1fr_1fr_1fr] lg:grid-cols-[420px_1fr_440px] flex flex-col h-full'>
+      <section className='md:grid md:grid-cols-[1fr_1fr_1fr] lg:grid-cols-[420px_1fr_440px] flex flex-col h-full' aria-roledescription='footer'>
         <Slide left>
           <div className='h-full'>
             <img src={AboutDark} alt="about dark" className='w-full h-full object-fill' />
@@ -99,8 +99,8 @@ function App() {
             <img src={AboutLight} alt="about light" className='w-full h-full object-fill' />
           </div>
         </Slide>
-      </div>
-    </div>
+      </section>
+    </main>
   );
 }
 
