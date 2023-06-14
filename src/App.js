@@ -78,7 +78,7 @@ function App() {
         </div>
       </section>
 
-      <section className='md:grid md:grid-cols-[1fr_1fr_1fr] lg:grid-cols-[420px_1fr_440px] flex flex-col h-full' aria-roledescription='footer'>
+      <section className='md:grid md:grid-cols-[1fr_1fr_1fr] lg:grid-cols-[420px_1fr_440px] flex flex-col h-full'>
         <Slide left>
           <div className='h-full'>
             <img src={AboutDark} alt="about dark" className='w-full h-full object-fill' />
