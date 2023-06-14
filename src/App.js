@@ -59,8 +59,8 @@ function App() {
 
               <div className=' mt-7'>
                 <a href="#shop" className='flex md:space-x-5 lg:space-x-8 hover:text-darkGray transition-all duration-300 ease-in-out'>
-                  <h3 className='text-base font-medium tracking-[0.735em] leading-4'>SHOP NOW</h3>
-                  <img src={Arrow} alt="" aria-hidden='true' className='' />
+                  <button type='button' className='text-base font-medium uppercase tracking-[0.735em] leading-4'>SHOP NOW</button>
+                  <img src={Arrow} alt="arrow" aria-hidden='true' className='' />
                 </a>
               </div>
             </div>
