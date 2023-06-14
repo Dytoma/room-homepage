@@ -35,7 +35,7 @@ This is a screenshot of my solution😇.
 ### Links
 
 - Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/room-homepage-Xu4nLLHs6N)
-- Live Site URL: [Site URL](https://clever-concha-cb814a.netlify.app/)
+- Live Site URL: [Site URL](https://room-homepage-olive.vercel.app/)
 
 ## My process
 For this project I used React, Tailwind CSS and react-awesome-reveal.
