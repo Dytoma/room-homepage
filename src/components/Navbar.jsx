@@ -4,8 +4,8 @@ import Logo from '../images/logo.svg';
 import Hamburger from '../images/icon-hamburger.svg';
 import IconClose from '../images/icon-close.svg';
 
-const activeState = 'flex animation gap-6 items-center justify-center md:text-white fixed md:static h-[112px] left-0 right-0 md:h-fit bg-white md:bg-inherit pt-6 md:pt-0';
-const unActiveState = 'md:flex gap-16 hidden items-center justify-center md:text-white absolute md:static h-[112px] left-0 right-0 md:h-fit bg-white md:bg-inherit z-20 pt-6 md:pt-0'
+import { activeState, unActiveState } from '../constants';
+
 
 const Navbar = () => {
     const [active, setActive] = useState(false)

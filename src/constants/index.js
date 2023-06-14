@@ -46,3 +46,6 @@ export const items = [
         itemDesc: "Our modern furniture store provide a high level of quality. Our company has invested in advanced technology to ensure that every product is made as perfect and as consistent as possible. With three decades of experience in this industry, we understand what customers want for their home and office."
     }
 ]
+
+export const activeState = 'flex animation gap-[5.75rem] items-center justify-center md:text-white fixed md:static h-[112px] left-0 right-0 md:h-fit bg-white md:bg-inherit pt-6 md:pt-0';
+export const unActiveState = 'md:flex gap-16 hidden items-center justify-center md:text-white absolute md:static h-[112px] left-0 right-0 md:h-fit bg-white md:bg-inherit z-20 pt-6 md:pt-0'
